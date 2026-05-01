@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](./banner.svg)
+![banner](./nathalia-banner.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=20&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Bold+design+choices%2C+grounded+in+usability.;Building+things+that+look+good+%26+work+better.;Bridging+design+%2B+code+%2B+AI." alt="Typing SVG" />
 
